@@ -1,4 +1,5 @@
 httpx
 fastapi
 uvicorn
+mcp
 python-mcp
